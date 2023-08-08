@@ -1,0 +1,8 @@
+sanic==22.6.2
+diffusers==0.11.0
+git+https://github.com/huggingface/transformers
+accelerate
+safetensors
+scipy
+websockets==10.0 
+potassium==0.1.2
